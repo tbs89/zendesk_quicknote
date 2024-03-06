@@ -1,6 +1,6 @@
 # QuickNote for Zendesk
 
-QuickNote is a lightweight Zendesk app designed to streamline the process of adding internal notes to tickets. With a simple and intuitive interface, support agents can quickly jot down important information without navigating away from the ticket page. This documentation covers the setup, usage, and integration of QuickNote into your Zendesk environment.
+QuickNote is a lightweight Zendesk app designed to add internal notes to tickets while working on them: with a simple and intuitive interface, support agents can quickly jot down important information without navigating away from the ticket page.
 
 ## Features
 
