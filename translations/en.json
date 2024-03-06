@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "QuickNote",
+    "short_description": "Add internal notes while typing public comments.",
+    "long_description": "QuickNote for Zendesk revolutionizes the way support agents interact with ticketing information, providing an efficient method to add internal notes directly within the ticket interface. This feature ensures seamless communication among team members, facilitating the sharing of insights and important details without disrupting the workflow. Enhance your support team's productivity and internal collaboration with QuickNote, where convenience meets functionality.",
+    "installation_instructions": "Simply click install."
+  }
+}
