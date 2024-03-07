@@ -27,7 +27,7 @@ After installation, the QuickNote app will be available on the ticket sidebar wi
 
 ## Demo Video
 
-![Demo GIF](assets/gif_demo.gif)
+![Demo GIF](assets/gif_app_demo.gif)
 
 ## Customization
 
